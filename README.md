@@ -43,3 +43,11 @@ $ git tag v0.0.1 -m 'v0.0.1'
 # push tag to git
 $ git push origin --tags
 ```
+
+## To check components on local webserver
+
+```
+$ yarn run dev
+```
+
+Open your browser and go to `http://localhost:3000/` to see working components
